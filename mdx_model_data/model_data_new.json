@@ -423,5 +423,9 @@
     "4170cce79c23f06b8a6c2c8169315760": {
         "config_yaml": "dereverb_mel_band_roformer_anvuew.yaml",
         "is_roformer": true
+    },
+    "839c437a4d109b1fd39522ee08974a76": {
+        "config_yaml": "config_dereverb-echo_mel_band_roformer.yaml",
+        "is_roformer": true
     }
 }
