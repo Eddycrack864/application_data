@@ -415,5 +415,13 @@
     "8ca0a9aec4b80a4844137cb8b042d7a6": {
         "config_yaml": "config_dereverb_mdx23c.yaml",
         "is_roformer": false
+    },
+    "cf182fcefa21d89133cdcd5576372086": {
+        "config_yaml": "dereverb_mel_band_roformer_anvuew.yaml",
+        "is_roformer": true
+    },
+    "4170cce79c23f06b8a6c2c8169315760": {
+        "config_yaml": "dereverb_mel_band_roformer_anvuew.yaml",
+        "is_roformer": true
     }
 }
