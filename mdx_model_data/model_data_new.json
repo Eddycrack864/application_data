@@ -428,8 +428,8 @@
         "config_yaml": "config_dereverb-echo_mel_band_roformer.yaml",
         "is_roformer": true
     },
-    "6ac3edb24e3d84ce3740e4fa8c0cc3f7": {
-        "config_yaml": "config_dereverb_echo_mbr_v2.yaml",
+    "c28d580630744c590c616b5f6b25cd47": {
+        "config_yaml": "config_vocals_mel_band_roformer_ft.yaml",
         "is_roformer": true
     }
 }
