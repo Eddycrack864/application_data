@@ -431,5 +431,9 @@
     "c28d580630744c590c616b5f6b25cd47": {
         "config_yaml": "config_vocals_mel_band_roformer_ft.yaml",
         "is_roformer": true
+    },
+    "52b9915c642f1f8c91649e052c00a326": {
+        "config_yaml": "config_vocals_mel_band_roformer_ft.yaml",
+        "is_roformer": true
     }
 }
