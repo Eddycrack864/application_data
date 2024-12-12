@@ -451,5 +451,9 @@
     "deb416baa0b1dbac043617a0d6f209e4": {
         "config_yaml": "config_melbandroformer_big_beta4.yaml",
         "is_roformer": true
+    },
+    "438d6c0a9d0e5cbaef115490892abacc": {
+        "config_yaml": "config_chorus_male_female_bs_roformer.yaml",
+        "is_roformer": true
     }
 }
