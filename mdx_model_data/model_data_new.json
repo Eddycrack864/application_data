@@ -451,9 +451,5 @@
     "deb416baa0b1dbac043617a0d6f209e4": {
         "config_yaml": "config_melbandroformer_big_beta4.yaml",
         "is_roformer": true
-    },
-    "e9d76b745cf66fead09979ab72500c6f": {
-        "config_yaml": "config_kimmel_unwa_ft.yaml",
-        "is_roformer": true
     }
 }
