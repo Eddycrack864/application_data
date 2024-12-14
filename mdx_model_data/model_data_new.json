@@ -412,10 +412,6 @@
         "config_yaml": "config_melbandroformer_inst_v2.yaml",
         "is_roformer": true
     },
-    "8ca0a9aec4b80a4844137cb8b042d7a6": {
-        "config_yaml": "config_dereverb_mdx23c.yaml",
-        "is_roformer": false
-    },
     "cf182fcefa21d89133cdcd5576372086": {
         "config_yaml": "dereverb_mel_band_roformer_anvuew.yaml",
         "is_roformer": true
